@@ -19,4 +19,7 @@
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   
+<img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" />
+<img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" />
+<img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" />
 <img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" />
