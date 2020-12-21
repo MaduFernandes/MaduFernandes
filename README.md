@@ -5,7 +5,6 @@
 
 **Personal Infos:**
 
-- 💼 I’m currently working on [CastGroup](https://www.castgroup.com.br/pt/);
 - 🔧 I am always looking to learn new technologies;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: eduarda.alves.siqueira.fernandes@gmail.com;
