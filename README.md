@@ -1,7 +1,8 @@
 ## Maria Eduarda,
 
-- Desenvolvedor FullStack
-- Sistemas de Informação
+- Desenvolvedora FullStack Pleno
+- Formada em Sistemas de Informação
+- Pós graduação em Engenharia de Software
 
 ##
 
